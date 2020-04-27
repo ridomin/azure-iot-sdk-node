@@ -25,7 +25,8 @@
     "digitaltwins/samples/device/typescript",
     "digitaltwins/samples/service",
     "digitaltwins/samples/model_repository",
-    "digitaltwins/samples/iot_central_device"
+    "digitaltwins/samples/e2edemo/thermostat",
+    "digitaltwins/samples/e2edemo/e2eweb"
   ],
   "version": "0.0.0",
   "maxBuffer": 1048576
