@@ -1,0 +1,18 @@
+{
+  "name": "thermostat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "azure-iot-device": "1.12.0-preview.2",
+    "azure-iot-common": "1.12.0-preview.2",
+    "azure-iot-device-mqtt": "1.12.0-preview.2",
+    "azure-iot-digitaltwins-device": "1.0.0-preview.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
